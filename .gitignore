@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 train.csv
 Fake-New-LSTM
+logsnextword1
+best_weights.h5
